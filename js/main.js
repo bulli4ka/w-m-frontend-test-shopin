@@ -8,10 +8,6 @@ window.addEventListener("DOMContentLoaded", function() {
     }
     // RANGE SLIDER END
 
-    // text inputs labels
-    // document.getElementById("form_name").oninput = function(){
-    //     inputChange("form_name");
-    // };
     inputChange("form_name");
     inputChange("form_country");
     inputChange("form_skype");
